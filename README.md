@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the implementation of a Secure DevOps pipeline using Docker, Docker Compose, and Jenkins pipelines. The objective was to establish a streamlined process for continuous integration and deployment of a basic Node.js web application.
+This assignment demonstrates the implementation of a Secure DevOps pipeline using Docker, Docker Compose, and Jenkins pipelines. The objective was to establish a streamlined process for continuous integration and deployment of a basic Node.js web application.
 
 ## Completed Tasks
 
